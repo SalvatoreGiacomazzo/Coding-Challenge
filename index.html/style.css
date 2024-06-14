@@ -1,0 +1,76 @@
+#LIM{
+  height: 80px;
+  width: auto;
+}
+
+body{
+  font-family: corbel;
+background-image: url(background.jpg);
+background-size:cover;
+background-attachment:;
+color: white;
+font-size: 15px;
+}
+
+h2{
+  color: lime;
+}
+
+header{
+  text-align: center;
+margin-top: 82px;
+}
+
+
+#limestripe{
+  background-color: lime;
+margin-right: 315px;
+margin-left: 315px;
+height: 45px;}
+
+.button{
+  border-radius: 3px;
+position: relative;
+top: 5px;
+}
+
+.monopattino{
+display: inline-block;
+margin-bottom: 0.3px;
+
+}
+
+main{margin-left: 311px;
+margin-bottom: 90px;}
+
+#gauge1{
+  width: 278px;
+height:25px;
+background-color: rgb(255, 128, 0);
+border-radius: 4px;
+}
+
+#gauge2{
+  width: 540px;
+  height: 25px;
+  background-color:rgb(51, 255, 51);
+  border-radius: 4px;
+}
+
+#gauge3{
+  width: 141px;
+  height: 25px;
+  border-radius: 4px;
+  background-color: rgb(204, 0, 0);
+}
+
+#blackbox{
+  background: rgba(0, 0, 0, 0.5);
+border-radius: 12px;
+height: 750px;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+
+p{font-size: 17px;}
